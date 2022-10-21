@@ -13,6 +13,23 @@ div {
 	margin-top:20px;
 }
 
+.main{
+  display: flex;
+  border:none;
+}
+#left {
+
+
+
+}
+
+#right{
+
+width:650px;
+border-left:none;
+padding-right: 10px;
+}
+
 #description {
 	/* in Ex1, add one line here to specify the width of
 	this element relative to the width of the viewport */
